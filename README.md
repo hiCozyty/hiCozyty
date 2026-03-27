@@ -42,7 +42,7 @@ Building an end-to-end purple team environment with automated red team scenario 
 
 ---
 ### ⌚ Cryptographic Network Security: Apple Watch Audio Streaming AI Assistant
-![blog post 2](https://github.com/hiCozyty/blog/blob/github-compat-post/src/lib/posts/2.md)
+[![Watch the Apple Watch Demo](https://raw.githubusercontent.com/hiCozyty/blog/github-compat-post/static/blogImages/blog2/applewatchblog.png)](https://vimeo.com/video/1171560964)
 Designed and implemented a defense-in-depth security stack for real-time audio streaming between an Apple Watch and a home server.
 
 - Custom **X.509 PKI enrollment workflow** with mutual TLS (mTLS) - LAN-only enrollment tied to physical proximity
@@ -55,7 +55,7 @@ Designed and implemented a defense-in-depth security stack for real-time audio s
 
 ---
 ### 📊 SIEM Lab: Splunk on Oracle Cloud Infrastructure
-![SIEM Lab](https://github.com/hiCozyty/blog/blob/github-compat-post/src/lib/posts/1.md)
+[![SIEM Lab](https://raw.githubusercontent.com/hiCozyty/blog/github-compat-post/static/blogImages/blog1/oracle_lab.jpg)](https://github.com/hiCozyty/blog/blob/github-compat-post/src/lib/posts/1.md)
 
 Deployed a cloud-based SIEM pipeline with secure log forwarding and automated rate-limit enforcement.
 
