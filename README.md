@@ -1,7 +1,7 @@
 ## 🎓 Education & Certifications
- 
-**SANS Cyber Academy** — Scholarship Recipient `08/2025 – 05/2026`
- 
+
+**SANS Cyber Academy** - Scholarship Recipient `08/2025 – 05/2026`
+
 | Certification | Status |
 |---|---|
 | GIAC GFACT | ✅ Earned |
@@ -9,9 +9,8 @@
 | GIAC GCIH | 🔄 Expected May 2026 |
 
 ---
-
 ## 🛠️ Skills & Tools
- 
+
 **Security Operations:** Incident response · Alert triage · Log analysis · Threat detection  
 **Security Tools:** Splunk · Wazuh · theHive · Caldera · Burp Suite · Metasploit  
 **Cloud & Infra:** AWS (EC2) · Oracle Cloud (OCI) · Azure Active Directory · Cloud SIEM pipelines  
@@ -20,58 +19,52 @@
 **Programming:** JavaScript · Python · Bash  
 
 ---
-
 ## 🏆 CTFs & Competitions
- 
+
 | Event | Date | Result |
 |---|---|---|
 | AWS × SANS CTF | February 2026 | 🥈 32nd / 600+ |
 | Snyk Annual CTF | March 2026 | 🥈 68th / 1,608 |
 | SANS Holiday Hack Challenge | December 2025 | ✅ 19 / 25 challenges completed |
- 
----
 
+---
 ## 📅 Conferences & Community
- 
-- BSides Baltimore — April 2026
-- SANS Community Night, MD — Feb 2026
-- SANS Community Night, DC — Dec 2025
- 
----
 
+- BSides Baltimore - April 2026
+- SANS Community Night, MD - Feb 2026
+- SANS Community Night, DC - Dec 2025
+
+---
 ## 🔬 Projects
- 
-### 🟣 Adversary Emulation & Detection Lab *(Purple Team Home Lab — In Progress)*
+
+### 🟣 Adversary Emulation & Detection Lab *(Purple Team Home Lab - In Progress)*
 Building an end-to-end purple team environment with automated red team scenario generation and LLM-powered detection-as-code. Details coming soon.
- 
+
 ---
-
-
 ### ⌚ Cryptographic Network Security: Apple Watch Audio Streaming AI Assistant
 [![Watch Demo](https://vumbnail.com/1171560964.jpg)](https://cozyty.blog/2)
- 
+
 Designed and implemented a defense-in-depth security stack for real-time audio streaming between an Apple Watch and a home server.
- 
-- Custom **X.509 PKI enrollment workflow** with mutual TLS (mTLS) — LAN-only enrollment tied to physical proximity
+
+- Custom **X.509 PKI enrollment workflow** with mutual TLS (mTLS) - LAN-only enrollment tied to physical proximity
 - **AES-128-GCM** encrypted UDP transport with cryptographic nonce derivation and replay protection via sequence numbers
 - Certificate-based identity using the Apple Watch **Secure Enclave** (private key never leaves hardware)
 - Three-port architecture separating enrollment, session auth, and media transport
 - Integrated **LangGraph** AI assistant as the application layer
- 
-`BunJS` `watchOS` `X.509 / mTLS` `AES-128-GCM` `UDP` `LangGraph`
- 
----
 
+`BunJS` `watchOS` `X.509 / mTLS` `AES-128-GCM` `UDP` `LangGraph`
+
+---
 ### 📊 SIEM Lab: Splunk on Oracle Cloud Infrastructure
 ![SIEM Lab](https://cozyty.blog/1)
- 
+
 Deployed a cloud-based SIEM pipeline with secure log forwarding and automated rate-limit enforcement.
- 
+
 - Provisioned OCI free-tier instances with **Tailscale ACL** network segmentation
 - Automated log collection pipeline: `rsyslog` → `rsync` → `logrotate` → **Splunk Universal Forwarder**
 - Built an **OCI SDK shell script** that monitors log volume and enforces API-based ingress lockdown to stay within Splunk's 500 MB/day free-tier limit
 - Built **SPL dashboards** to visualize live SSH brute-force trends by source IP, geolocation, and daily occurrence rate
- 
+
 `Splunk` `OCI` `Tailscale` `rsync` `rsyslog` `Bash` `OCI CLI`
- 
+
 ---
