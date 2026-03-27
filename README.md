@@ -48,7 +48,7 @@ Building an end-to-end purple team environment with automated red team scenario 
 
 
 ### ⌚ Cryptographic Network Security: Apple Watch Audio Streaming AI Assistant
-[📝 Blog Post](https://taewon-dev.com/posts/apple-watch-security)
+[![Watch Demo](https://vumbnail.com/1171560964.jpg)](https://vimeo.com/1171560964)
  
 Designed and implemented a defense-in-depth security stack for real-time audio streaming between an Apple Watch and a home server.
  
@@ -63,7 +63,7 @@ Designed and implemented a defense-in-depth security stack for real-time audio s
 ---
 
 ### 📊 SIEM Lab: Splunk on Oracle Cloud Infrastructure
-[📝 Blog Post](https://taewon-dev.com/posts/oci-splunk-lab)
+![SIEM Lab](https://cozyty.blog/blogImages/blog1/oracle_blog.png)
  
 Deployed a cloud-based SIEM pipeline with secure log forwarding and automated rate-limit enforcement.
  
