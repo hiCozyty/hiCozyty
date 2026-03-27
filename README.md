@@ -63,7 +63,7 @@ Designed and implemented a defense-in-depth security stack for real-time audio s
 ---
 
 ### 📊 SIEM Lab: Splunk on Oracle Cloud Infrastructure
-![SIEM Lab](https://cozyty.blog/blogImages/blog1/oracle_blog.png)
+![SIEM Lab](https://cozyty.blog/1)
  
 Deployed a cloud-based SIEM pipeline with secure log forwarding and automated rate-limit enforcement.
  
