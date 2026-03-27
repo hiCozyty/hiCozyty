@@ -42,7 +42,7 @@ Building an end-to-end purple team environment with automated red team scenario 
 
 ---
 ### ⌚ Cryptographic Network Security: Apple Watch Audio Streaming AI Assistant
-[![post](https://vumbnail.com/1171560964.jpg)]([https://cozyty.blog/2](https://github.com/hiCozyty/blog/blob/github-compat-post/src/lib/posts/2.md))
+[![post](https://vumbnail.com/1171560964.jpg)]([https://github.com/hiCozyty/blog/blob/github-compat-post/src/lib/posts/2.md])
 
 Designed and implemented a defense-in-depth security stack for real-time audio streaming between an Apple Watch and a home server.
 
