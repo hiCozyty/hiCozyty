@@ -1,4 +1,4 @@
-## 🎓 Education & Certifications
+## 🎓 Certifications
 
 **SANS Cyber Academy** - Scholarship Recipient `08/2025 – 05/2026`
 
