@@ -16,7 +16,7 @@
 **Cloud & Infra:** AWS (EC2) · Oracle Cloud (OCI) · Azure Active Directory · Cloud SIEM pipelines  
 **Networking:** TCP/IP · DNS · DHCP · Packet analysis · Network hardening · Firewall concepts  
 **OS:** Linux · macOS · Windows  
-**Programming:** JavaScript · Python · Bash  
+**Programming:** JavaScript · Python · Bash · Rust · Swift
 
 ---
 ## 🏆 CTFs & Competitions
