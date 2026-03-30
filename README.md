@@ -23,6 +23,7 @@
 
 | Event | Date | Result |
 |---|---|---|
+| SANS CTF | March 2026 | Pending... |
 | AWS × SANS CTF | March 2026 | 🥈 32nd / 600+ |
 | Snyk Annual CTF | February 2026 | 🥈 68th / 1,608 |
 | SANS Holiday Hack Challenge | December 2025 | ✅ 19 / 25 challenges completed |
