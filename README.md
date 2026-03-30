@@ -10,7 +10,7 @@
 
 ---
 ## 🛠️ Skills & Tools
-**API:** NIST NVD · Microsoft MSRC · Shodan · VulnDB
+**API:** NIST NVD · Microsoft MSRC · Shodan · VulnDB  
 **Security Operations:** Incident response · Alert triage · Log analysis · Threat detection  
 **Security Tools:** Splunk · Wazuh · theHive · Tenable · Caldera · Ansible · Burp Suite · Metasploit  
 **Cloud & Infra:** AWS (EC2) · Oracle Cloud (OCI) · Azure Active Directory · Cloud SIEM pipelines  
