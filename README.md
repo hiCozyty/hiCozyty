@@ -12,10 +12,11 @@
 ## 🛠️ Skills & Tools
 **Security Operations:** Incident response · Alert triage · Log analysis · Threat detection  
 **API:** NIST NVD · Microsoft MSRC · Shodan · VulnDB  
-**Security Tools:** Splunk · Wazuh · theHive · Tenable · Caldera · Ansible · Burp Suite · Metasploit  
-**Cloud & Infra:** AWS (EC2) · Oracle Cloud (OCI) · Azure Active Directory · Cloud SIEM pipelines  
+**Security Tools:** Splunk · Wazuh · theHive · Tenable · Caldera · Burp Suite · Metasploit  
+**Cloud & Infra:** AWS · Oracle Cloud (OCI) · Azure Active Directory · Cloudflare Workers · Cloudflare Tunnel
 **Networking:** TCP/IP · DNS · DHCP · Packet analysis · Network hardening · Firewall concepts  
 **OS:** Linux · macOS · Windows  
+**VM:** Ludus · Ansible · Proxmox · qemu/virtio
 **Programming:** JavaScript · Python · Bash · Rust · Swift
 
 ---
