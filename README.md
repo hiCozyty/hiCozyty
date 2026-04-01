@@ -11,56 +11,56 @@
 ---
 ## 🛠️ Skills & Tools
 **Security Operations:**  
-  · Incident response 
-  · Alert triage 
-  · Log analysis 
+  · Incident response  
+  · Alert triage  
+  · Log analysis  
   · Threat detection  
 
 **API:**  
-  · NIST NVD 
-  · Microsoft MSRC 
-  · Shodan 
-  · VulnDB  
+  · NIST NVD  
+  · Microsoft MSRC  
+  · Shodan  
+  · VulnDB   
 
 **Security Tools:** 
-  · Splunk 
-  · Wazuh 
-  · theHive 
-  · Tenable 
-  · Caldera 
-  · Burp Suite 
+  · Splunk  
+  · Wazuh  
+  · theHive  
+  · Tenable  
+  · Caldera  
+  · Burp Suite  
   · Metasploit  
 
 **Cloud & Infra:**  
-· AWS 
-· Oracle Cloud (OCI) 
-· Azure Active Directory 
-· Cloudflare Workers / Durable Objects    
+· AWS  
+· Oracle Cloud (OCI)  
+· Azure Active Directory  
+· Cloudflare Workers / Durable Objects  
 
 **Networking:**  
-· TCP/IP 
-· DNS 
-· DHCP 
-· Packet analysis 
-· Network hardening 
+· TCP/IP  
+· DNS  
+· DHCP  
+· Packet analysis  
+· Network hardening  
 · Firewall concepts  
 
 **OS:** 
-· Linux 
-· macOS 
-· Windows  
+· Linux  
+· macOS  
+· Windows   
 
 **VM:** 
-Ludus 
-· Ansible 
-· Proxmox 
+· Ludus  
+· Ansible  
+· Proxmox  
 · qemu/virtio  
 
 **Programming:** 
-· JavaScript 
-· Python 
-· Bash 
-· Rust 
+· JavaScript  
+· Python  
+· Bash  
+· Rust  
 · Swift  
 
 ---
