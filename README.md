@@ -10,58 +10,14 @@
 
 ---
 ## 🛠️ Skills & Tools
-**Security Operations:**  
-  · Incident response  
-  · Alert triage  
-  · Log analysis  
-  · Threat detection  
-
-**API:**  
-  · NIST NVD  
-  · Microsoft MSRC  
-  · Shodan  
-  · VulnDB   
-
-**Security Tools:** 
-  · Splunk  
-  · Wazuh  
-  · theHive  
-  · Tenable  
-  · Caldera  
-  · Burp Suite  
-  · Metasploit  
-
-**Cloud & Infra:**  
-  · AWS  
-  · Oracle Cloud (OCI)  
-  · Azure Active Directory  
-  · Cloudflare Workers / Durable Objects  
-
-**Networking:**  
-  · TCP/IP  
-  · DNS  
-  · DHCP  
-  · Packet analysis  
-  · Network hardening  
-  · Firewall concepts  
-
-**OS:** 
-  · Linux  
-  · macOS  
-  · Windows   
-
-**VM:** 
-  · Ludus  
-  · Ansible  
-  · Proxmox  
-  · qemu/virtio  
-
-**Programming:** 
-  · JavaScript  
-  · Python  
-  · Bash  
-  · Rust  
-  · Swift  
+| Sec Ops | API | Tools | Cloud | Networking | OS | VM | Programming |
+|---------|-----|-------|-------|-----------|----|----|------------|
+| Incident response | NIST NVD | Splunk | AWS | TCP/IP | Linux | Ludus | JavaScript |
+| Alert triage | Microsoft MSRC | Wazuh | Oracle Cloud (OCI) | DNS | macOS | Ansible | Python |
+| Log analysis | Shodan | theHive | Azure AD | DHCP | Windows | Proxmox | Bash |
+| Threat detection | VulnDB | Caldera | Cloudflare Workers | Packet analysis |  | qemu/virtio | Rust |
+|  |  | Metasploit | Cloudflare Durable Objects | Network hardening |  |  | Swift |
+|  |  | Burp Suite |  | Firewall concepts |  |  |  |
 
 ---
 ## 🏆 CTFs & Competitions
