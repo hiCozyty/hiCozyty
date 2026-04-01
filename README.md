@@ -16,7 +16,7 @@
 | Alert triage | Microsoft MSRC | Wazuh | Oracle Cloud (OCI) | DNS | macOS | Ansible | Python |
 | Log analysis | Shodan | theHive | Azure AD | DHCP | Windows | Proxmox | Bash |
 | Threat detection | VulnDB | Caldera | Cloudflare Workers | Packet analysis |  | qemu/virtio | Rust |
-|  |  | Metasploit | Cloudflare Durable Objects | Network hardening |  |  | Swift |
+|  | winRM | Metasploit | Cloudflare Durable Objects | Network hardening |  |  | Swift |
 |  |  | Burp Suite |  | Firewall concepts |  |  |  |
 
 ---
