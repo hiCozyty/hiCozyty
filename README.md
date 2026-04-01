@@ -16,7 +16,7 @@
 
 **Security Tools:** Splunk · Wazuh · theHive · Tenable · Caldera · Burp Suite · Metasploit  
 
-**Cloud & Infra:** AWS · Oracle Cloud (OCI) · Azure Active Directory · Cloudflare Workers · Cloudflare Tunnel  
+**Cloud & Infra:** AWS · Oracle Cloud (OCI) · Azure Active Directory · Cloudflare Workers / Durable Objects    
 
 **Networking:** TCP/IP · DNS · DHCP · Packet analysis · Network hardening · Firewall concepts  
 
