@@ -32,36 +32,36 @@
   · Metasploit  
 
 **Cloud & Infra:**  
-· AWS  
-· Oracle Cloud (OCI)  
-· Azure Active Directory  
-· Cloudflare Workers / Durable Objects  
+  · AWS  
+  · Oracle Cloud (OCI)  
+  · Azure Active Directory  
+  · Cloudflare Workers / Durable Objects  
 
 **Networking:**  
-· TCP/IP  
-· DNS  
-· DHCP  
-· Packet analysis  
-· Network hardening  
-· Firewall concepts  
+  · TCP/IP  
+  · DNS  
+  · DHCP  
+  · Packet analysis  
+  · Network hardening  
+  · Firewall concepts  
 
 **OS:** 
-· Linux  
-· macOS  
-· Windows   
+  · Linux  
+  · macOS  
+  · Windows   
 
 **VM:** 
-· Ludus  
-· Ansible  
-· Proxmox  
-· qemu/virtio  
+  · Ludus  
+  · Ansible  
+  · Proxmox  
+  · qemu/virtio  
 
 **Programming:** 
-· JavaScript  
-· Python  
-· Bash  
-· Rust  
-· Swift  
+  · JavaScript  
+  · Python  
+  · Bash  
+  · Rust  
+  · Swift  
 
 ---
 ## 🏆 CTFs & Competitions
