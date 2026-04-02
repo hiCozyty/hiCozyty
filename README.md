@@ -40,7 +40,7 @@
 ## 🔬 Projects
 
 ### 🟣 Adversary Emulation & Detection Lab *(Purple Team Home Lab - In Progress)*
-Building an end-to-end purple team environment with automated red team scenario generation and LLM-powered detection-as-code. Details coming soon.
+Building an end-to-end purple team environment with automated red team scenario generation and LLM-powered detection-as-code pipeline. Details coming soon.
 
 ---
 ### ⌚ Cryptographic Network Security: Apple Watch Audio Streaming AI Assistant
