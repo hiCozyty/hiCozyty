@@ -4,7 +4,7 @@
 
 | Certification | Status |
 |---|---|
-| GIAC GCIH | 🔄 Expected May 2026 |
+| GIAC GCIH | ✅ May 2026 |
 | GIAC GSEC | ✅ Feb 2026 |
 | GIAC GFACT | ✅ Nov 2025 |
 
