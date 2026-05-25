@@ -24,6 +24,7 @@
 
 | Event | Date | Result |
 |---|---|---|
+| SANS NetWars Core CTF | May 2026 | 🥈 2nd / 50+ |
 | SANS CTF | March 2026 | 🥈 5th / 220+ in Veterans |
 | AWS × SANS CTF | March 2026 | 🥈 32nd / 600+ |
 | Snyk Annual CTF | February 2026 | 🥈 68th / 1,608 |
