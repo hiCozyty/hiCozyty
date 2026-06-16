@@ -40,8 +40,12 @@
 ---
 ## 🔬 Projects
 
-### 🟣 Adversary Emulation & Detection Lab *(Purple Team Home Lab - In Progress)*
-Building an end-to-end purple team environment with automated red team scenario generation and LLM-powered detection-as-code pipeline. Details coming soon.
+### SIFT Arena
+[![SIFTArena Repo](https://github.com/user-attachments/assets/96761a14-0c9a-4c95-b5db-22fc26120a35)](https://github.com/hiCozyty/SIFTArena)
+
+SIFTArena - BRING YOUR OWN attack chain, workflow, and model. Benchmark LLM agents on forensic reconstruction against ground truth. Reproducible playbooks. Quantified accuracy.
+
+[Github Repo](https://github.com/hiCozyty/SIFTArena)
 
 ---
 ### ⌚ Cryptographic Network Security: Apple Watch Audio Streaming AI Assistant
