@@ -1,44 +1,6 @@
-## 🎓 Certifications
+## 🛠️ Hardware Projects (coming soon...)
 
-**SANS Cyber Academy** - Scholarship Recipient `08/2025 – 05/2026`
-
-| Certification | Status |
-|---|---|
-| GIAC GCIH | ✅ May 2026 |
-| GIAC GSEC | ✅ Feb 2026 |
-| GIAC GFACT | ✅ Nov 2025 |
-
----
-## 🛠️ Skills & Tools
-| Sec Ops | API | Tools | Cloud | Networking | OS | VM | Programming |
-|---------|-----|-------|-------|-----------|----|----|------------|
-| Incident response | NIST NVD | Splunk | AWS | TCP/IP | Linux | Ludus | JavaScript |
-| Alert triage | Microsoft MSRC | Wazuh | Oracle Cloud (OCI) | DNS | macOS | Ansible | Python |
-| Log analysis | Shodan | theHive | Azure AD | DHCP | Windows | Proxmox | Bash |
-| Threat detection | VulnDB | Caldera | Cloudflare Workers | Packet analysis |  | qemu/virtio | Rust |
-|  | winRM | Metasploit | Cloudflare Durable Objects | Network hardening |  |  | Swift |
-|  |  | Burp Suite |  | Firewall concepts |  |  |  |
-
----
-## 🏆 CTFs & Competitions
-
-| Event | Date | Result |
-|---|---|---|
-| SANS NetWars Core CTF | May 2026 | 🥈 2nd / 50+ |
-| SANS CTF | March 2026 | 🥈 5th / 220+ in Veterans |
-| AWS × SANS CTF | March 2026 | 🥈 32nd / 600+ |
-| Snyk Annual CTF | February 2026 | 🥈 68th / 1,608 |
-| SANS Holiday Hack Challenge | December 2025 | ✅ 19 / 25 challenges completed |
-
----
-## 📅 Conferences & Community
-
-- BSides Baltimore - April 2026
-- SANS Community Night, MD - Feb 2026
-- SANS Community Night, DC - Dec 2025
-
----
-## 🔬 Projects
+## 💻 Software Projects
 
 ### SIFT Arena
 [![SIFTArena Repo](https://github.com/user-attachments/assets/96761a14-0c9a-4c95-b5db-22fc26120a35)](https://github.com/hiCozyty/SIFTArena)
@@ -79,5 +41,35 @@ Deployed a cloud-based SIEM pipeline with secure log forwarding and automated ra
 - Built **SPL dashboards** to visualize live SSH brute-force trends by source IP, geolocation, and daily occurrence rate
 
 `Splunk` `OCI` `Tailscale` `rsync` `rsyslog` `Bash` `OCI CLI`
+
+---
+
+## 🎓 Certifications
+
+**SANS Cyber Academy** - Scholarship Recipient `08/2025 – 05/2026`
+
+| Certification | Status |
+|---|---|
+| GIAC GCIH | ✅ May 2026 |
+| GIAC GSEC | ✅ Feb 2026 |
+| GIAC GFACT | ✅ Nov 2025 |
+
+---
+## 🏆 CTFs & Competitions
+
+| Event | Date | Result |
+|---|---|---|
+| SANS NetWars Core CTF | May 2026 | 🥈 2nd / 50+ |
+| SANS CTF | March 2026 | 🥈 5th / 220+ in Veterans |
+| AWS × SANS CTF | March 2026 | 🥈 32nd / 600+ |
+| Snyk Annual CTF | February 2026 | 🥈 68th / 1,608 |
+| SANS Holiday Hack Challenge | December 2025 | ✅ 19 / 25 challenges completed |
+
+---
+## 📅 Conferences & Community
+
+- BSides Baltimore - April 2026
+- SANS Community Night, MD - Feb 2026
+- SANS Community Night, DC - Dec 2025
 
 ---
