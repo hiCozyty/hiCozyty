@@ -2,7 +2,7 @@
 
 ## 💻 Software Projects
 
-### SIFT Arena
+### SIFT Arena (May 2026)
 [![SIFTArena Repo](https://github.com/user-attachments/assets/96761a14-0c9a-4c95-b5db-22fc26120a35)](https://github.com/hiCozyty/SIFTArena)
 
 SIFTArena - BRING YOUR OWN attack chain, workflow, and model. Benchmark LLM agents on forensic reconstruction against ground truth. Reproducible playbooks. Quantified accuracy.
@@ -10,7 +10,7 @@ SIFTArena - BRING YOUR OWN attack chain, workflow, and model. Benchmark LLM agen
 [Github Repo](https://github.com/hiCozyty/SIFTArena)
 
 ---
-### ⌚ Cryptographic Network Security: Apple Watch Audio Streaming AI Assistant
+### ⌚ Cryptographic Network Security: Apple Watch Audio Streaming AI Assistant (March 2026)
 [![Watch the Apple Watch Demo](https://raw.githubusercontent.com/hiCozyty/blog/github-compat-post/static/blogImages/blog2/applewatchblog.png)](https://github.com/hiCozyty/blog/blob/github-compat-post/src/lib/posts/2.md)
 
 [Github .md post](https://github.com/hiCozyty/blog/blob/github-compat-post/src/lib/posts/2.md)
@@ -27,7 +27,7 @@ Designed and implemented a defense-in-depth security stack for real-time audio s
 `BunJS` `watchOS` `X.509 / mTLS` `AES-128-GCM` `UDP` `LangGraph`
 
 ---
-### 📊 SIEM Lab: Splunk on Oracle Cloud Infrastructure
+### 📊 SIEM Lab: Splunk on Oracle Cloud Infrastructure (Nov 2025)
 [![SIEM Lab](https://raw.githubusercontent.com/hiCozyty/blog/github-compat-post/static/blogImages/blog1/oracle_lab.jpg)](https://github.com/hiCozyty/blog/blob/github-compat-post/src/lib/posts/1.md)
 
 [Github .md post](https://github.com/hiCozyty/blog/blob/github-compat-post/src/lib/posts/1.md)
