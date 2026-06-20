@@ -1,5 +1,3 @@
-## 🛠️ Hardware Projects (coming soon...)
-
 ## 💻 Software Projects
 
 ### SIFT Arena (June 2026)
