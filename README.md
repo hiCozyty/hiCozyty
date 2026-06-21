@@ -1,6 +1,6 @@
 ## 💻 Software Projects
 
-### SIFT Arena (June 2026)
+### SIFT Arena [![Find Evil Hackathon](https://findevil.devpost.com/)] (June 2026)
 [![SIFTArena Repo](https://github.com/user-attachments/assets/96761a14-0c9a-4c95-b5db-22fc26120a35)](https://github.com/hiCozyty/SIFTArena)
 
 SIFTArena - BRING YOUR OWN attack chain, workflow, and model. Benchmark LLM agents on forensic reconstruction against ground truth. Reproducible playbooks. Quantified accuracy.
