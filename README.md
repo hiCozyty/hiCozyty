@@ -66,6 +66,7 @@ Deployed a cloud-based SIEM pipeline with secure log forwarding and automated ra
 ---
 ## 📅 Conferences & Community
 
+- SANS Community Night, DC - Jul 2026
 - BSides Baltimore - April 2026
 - SANS Community Night, MD - Feb 2026
 - SANS Community Night, DC - Dec 2025
